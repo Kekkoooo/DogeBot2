@@ -1,7 +1,7 @@
 {
   "name": "Doge Bot",
   "version": "2.0.0",
-  "description": "Kekko Bot.",
+  "description": "Azrael Bot.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
